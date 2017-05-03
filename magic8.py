@@ -1,3 +1,9 @@
+## 
+## 
+## Magic 8 Ball that will guide you through life
+## 
+##
+
 import random
 import time
 
